@@ -1,0 +1,47 @@
+12:28:19.303 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Users\V-SHRA~1\AppData\Local\Temp\testng-eclipse--1752680099\testng-customsuite.xml"
+12:28:19.593 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+12:28:19.597 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:28:19.599 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.599 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.600 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.600 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.600 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.602 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.611 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+12:28:19.622 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+12:28:19.624 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.625 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:28:19.626 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.626 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.627 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.627 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.629 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.630 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.630 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.630 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.633 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.633 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.634 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.634 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.636 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.637 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.639 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.640 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.640 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:28:19.640 [main] INFO  org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:28:19.652 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Users\v-shravyar\AppData\Local\Temp\testng-eclipse--1752680099\testng-customsuite.xml
+
+12:28:19.676 [main] INFO  org.testng.internal.Utils- [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+12:28:23.744 [main] INFO  testCases.TC001_AccountRegistrationTest- **Starting TC001_AccountRegistrationTest **
+12:28:24.312 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on MyAccount link
+12:28:24.773 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on Register link
+12:28:24.777 [main] INFO  testCases.TC001_AccountRegistrationTest- Providing customer details..
+12:28:26.033 [main] INFO  testCases.TC001_AccountRegistrationTest- Validating expected message..
+12:28:26.086 [main] ERROR testCases.TC001_AccountRegistrationTest- Test Failed
+12:28:26.087 [main] DEBUG testCases.TC001_AccountRegistrationTest- Debug loggs
+12:28:26.561 [main] INFO  org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.jq.Main@61f3fbb8: 87 ms
+12:28:26.578 [main] INFO  org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.FailedReporter@2e380628: 17 ms
+12:28:26.588 [main] INFO  org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.XMLReporter@50d3bf39: 9 ms
+12:28:26.598 [main] INFO  org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7ac9af2a: 8 ms
+12:28:26.609 [main] INFO  org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@185f7840: 11 ms

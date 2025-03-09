@@ -1,0 +1,59 @@
+11:28:56.609 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on Register link
+11:28:56.634 [main] INFO  testCases.TC001_AccountRegistrationTest- Providing customer details..
+11:28:58.202 [main] INFO  testCases.TC001_AccountRegistrationTest- Validating expected message..
+11:28:58.262 [main] INFO  testCases.TC001_AccountRegistrationTest- **Finished TC001_AccountRegistrationTest**
+11:29:02.567 [main] INFO  testCases.TC002_LoginTest- **Starting TC002_LoginTest*
+11:29:04.329 [main] INFO  testCases.TC002_LoginTest- **Finished TC002_LoginTest*
+11:29:45.134 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\master.xml"
+11:29:45.862 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Workspace\Java Projects\OpencartV121\master.xml
+
+11:30:24.206 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\master.xml"
+11:30:24.670 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Workspace\Java Projects\OpencartV121\master.xml
+
+11:33:26.678 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\master.xml"
+11:33:27.575 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Workspace\Java Projects\OpencartV121\master.xml
+
+11:45:19.162 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\master.xml"
+11:45:19.976 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Workspace\Java Projects\OpencartV121\master.xml
+
+11:45:31.273 [main] INFO  testCases.TC001_AccountRegistrationTest- **Starting TC001_AccountRegistrationTest **
+11:45:31.483 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on MyAccount link
+11:45:32.004 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on Register link
+11:45:32.012 [main] INFO  testCases.TC001_AccountRegistrationTest- Providing customer details..
+11:45:33.934 [main] INFO  testCases.TC001_AccountRegistrationTest- Validating expected message..
+11:45:34.011 [main] INFO  testCases.TC001_AccountRegistrationTest- **Finished TC001_AccountRegistrationTest**
+11:45:39.318 [main] INFO  testCases.TC002_LoginTest- **Starting TC002_LoginTest*
+11:45:42.515 [main] INFO  testCases.TC002_LoginTest- **Finished TC002_LoginTest*
+11:46:23.278 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\grouping.xml"
+11:46:23.834 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Workspace\Java Projects\OpencartV121\grouping.xml
+
+11:46:29.581 [main] INFO  testCases.TC001_AccountRegistrationTest- **Starting TC001_AccountRegistrationTest **
+11:46:30.523 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on MyAccount link
+11:46:32.043 [main] INFO  testCases.TC001_AccountRegistrationTest- Clicked on Register link
+11:46:32.058 [main] INFO  testCases.TC001_AccountRegistrationTest- Providing customer details..
+11:46:34.785 [main] INFO  testCases.TC001_AccountRegistrationTest- Validating expected message..
+11:46:34.866 [main] INFO  testCases.TC001_AccountRegistrationTest- **Finished TC001_AccountRegistrationTest**
+11:46:39.457 [main] INFO  testCases.TC002_LoginTest- **Starting TC002_LoginTest*
+11:46:42.462 [main] INFO  testCases.TC002_LoginTest- **Finished TC002_LoginTest*
+11:47:09.638 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\crossbrowsertesting.xml"
+11:47:10.138 [main] INFO  org.testng.internal.Utils- [TestNG] Running:
+  C:\Workspace\Java Projects\OpencartV121\crossbrowsertesting.xml
+
+11:47:18.058 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest- **Starting TC001_AccountRegistrationTest **
+11:47:19.478 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest- Clicked on MyAccount link
+11:47:20.889 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest- Clicked on Register link
+11:47:20.897 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest- Providing customer details..
+11:47:23.559 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest- Validating expected message..
+11:47:23.634 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest- **Finished TC001_AccountRegistrationTest**
+11:47:27.432 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest- **Starting TC001_AccountRegistrationTest **
+11:47:28.176 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest- Clicked on MyAccount link
+11:47:29.227 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest- Clicked on Register link
+11:47:29.228 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest- Providing customer details..
+11:47:32.858 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest- Validating expected message..
+11:47:32.972 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest- **Finished TC001_AccountRegistrationTest**
+11:48:11.365 [main] DEBUG org.testng.TestNG- suiteXmlPath: "C:\Workspace\Java Projects\OpencartV121\master.xml"
